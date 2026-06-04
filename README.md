@@ -66,5 +66,5 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 Your feedback is always welcome!  
 If you'd like to **collaborate on similar projects** or discuss **data analysis opportunities**, feel free to connect.
 
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile Link]  
+📧 Email: [ravirathour0038@gmail.com]  
+🔗 LinkedIn: [My Linkdin]  
