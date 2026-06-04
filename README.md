@@ -60,11 +60,10 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
----
-
 ## 💬 Feedback & Collaboration
-Your feedback is always welcome!  
-If you'd like to **collaborate on similar projects** or discuss **data analysis opportunities**, feel free to connect.
+I would be happy to hear your feedback on this project.  
+If you want to connect or share ideas, you can reach me here:
 
-📧 Email: [ravirathour0038@gmail.com]  
-🔗 LinkedIn: [My Linkdin]  
+📧 Email: ravirathour0038@gmail.com  
+🔗 LinkedIn: [My LinkedIn]
+
