@@ -17,6 +17,23 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
+## 📑 Data
+- [SuperStore_Sales_DataSet.xlsx](data/SuperStore_Sales_DataSet.xlsx)
+
+---
+
+## 📊 Dashboard
+- [Superstore_sales_performance_and_forecaste.pbix](dashboard/Superstore_sales_performance_and_forecaste.pbix)  
+- [Superstore_sales_dashboard.pdf](dashboard/Superstore_sales_dashboard.pdf)
+
+---
+
+## 🖼️ Dashboard Preview
+![Forecast Preview](images/Superstore_forecast.png)  
+![Performance Preview](images/Superstore_performance.png)
+
+---
+
 ## 📈 Key Features
 - Regional **sales performance analysis** with KPIs (Sales, Profit, Quantity, Ship Days)  
 - **Profit & sales trends** across categories and sub‑categories  
@@ -45,4 +62,4 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ## 📜 License
 This project is shared for educational and portfolio purposes.  
-You may view and explore the dashboard freely.  
+You may view and explore the dashboard freely.
