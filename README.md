@@ -29,7 +29,7 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 ---
 
 ## 🖼️ Dashboard Preview
-![Forecast Preview](images/Superstore_forecast.png)  
+![Forecast Preview](images/Superstore_forecaste.png)  
 ![Performance Preview](images/Superstore_sales_performance.png)
 
 ---
