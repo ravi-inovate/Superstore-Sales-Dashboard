@@ -64,6 +64,8 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 I would be happy to hear your feedback on this project.  
 If you want to connect or share ideas, you can reach me here:
 
-📧 Email: ravirathour0038@gmail.com  
-🔗 LinkedIn: [My LinkedIn]
+- GitHub: [ravi-inovate](https://github.com/ravi-inovate)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ravi-rathour-770377385)
+- Email: ravirathour0038@gmail.com
+
 
