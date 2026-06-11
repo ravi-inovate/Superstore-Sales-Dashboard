@@ -7,7 +7,7 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 - **data/** → Superstore Sales dataset  
 - **dashboard/** → Power BI files (`.pbix`) and PDF report  
 - **images/** → Visuals and screenshots of dashboards  
@@ -17,24 +17,24 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
-## 📑 Data
+##  Data
 - [SuperStore_Sales_DataSet.xlsx](data/SuperStore_Sales_DataSet.xlsx)
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 - [Superstore_sales_performance_and_forecaste.pbix](dashboard/Superstore_sales_performance_and_forecaste.pbix)  
 - [Superstore_sales_dashboard.pdf](dashboard/Superstore_sales_dashboard.pdf)
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![Performance Preview](images/Superstore_sales_performance.png)
 ![Forecast Preview](images/Superstore_forecaste.png)  
 
 ---
 
-## 📈 Key Features
+## Key Features
 - Regional **sales performance analysis** with KPIs (Sales, Profit, Quantity, Ship Days)  
 - **Profit & sales trends** across categories and sub‑categories  
 - Comparison of **shipping modes** and **payment methods**  
@@ -44,7 +44,7 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
-## 🚀 Usage
+## Usage
 1. Clone the repository.  
 2. Download the `.pbix` file from the `dashboard/` folder.  
 3. Open it in **Power BI Desktop**.  
@@ -53,7 +53,7 @@ Interactive features like **page navigation** make the dashboard dynamic and use
 
 ---
 
-## 📝 Notes
+##  Notes
 - Dataset is included for reproducibility.  
 - Forecast visuals are generated using Power BI’s built‑in forecasting tools.  
 - Dashboard screenshots are available in the `images/` folder for quick preview.  
